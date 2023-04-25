@@ -102,7 +102,8 @@ This is a React App that provided by Microverse for the purpose of learning and 
 - **Linters SetUp**
 - **Follow HTML and CSS best practice**
 - **Follow React best practice**
-- **Display Text**
+- **Functional Components**
+- **Import and Export Components**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -197,7 +198,7 @@ git@github.com:KUBAHO3/Sharing-World.git
 <!-- FUTURE FEATURES -->
 
 ## :telescope: Future Features <a name="future-features"></a><br/>
-- [ ] **Adding BackEnd**<br/>
+- [ ] **Adding Behaviors**<br/>
 - [ ] **Making it stylish**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTRIBUTING -->
