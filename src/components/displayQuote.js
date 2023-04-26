@@ -6,7 +6,9 @@ function DisplayQuote() {
     const [myQuote, setMyQuote] = useState('');
     const [quoteLoading, setQuoteLoading] = useState(true);
     const [quoteError, setQuoteError] = useState(null);
+
     
+
   return (
     <div>DisplayQuote</div>
   )
