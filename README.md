@@ -106,6 +106,8 @@ This is a React App that provided by Microverse for the purpose of learning and 
 - **Import and Export Components**
 - **Make use of Big.js**
 - **Add calc operations**
+- **Add dynamic Quote**
+- **Use Hooks**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
