@@ -176,7 +176,7 @@ Example command:
 ```
 ### Run tests
 To run tests, run the following command:
-npm test
+npm run test
 Example command:
 ```sh
   npx stylelint "**/*.{css,scss}"
