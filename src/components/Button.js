@@ -13,6 +13,6 @@ Button.defaultProps = {
 Button.propTypes = {
   title: PropTypes.string.isRequired,
   cname: PropTypes.string,
-  onClick: PropTypes.objectOf(PropTypes.string),
+  onClick: PropTypes.func,
 };
 export default Button;
