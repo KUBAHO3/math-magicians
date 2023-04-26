@@ -236,7 +236,7 @@ If you like this project please follow me on github & twitter and also connect o
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/KUBAHO3/Math-magicians/blob/master/MIT.md) licensed.
+This project is [MIT](https://github.com/KUBAHO3/math-magicians/blob/events/MIT.md) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
