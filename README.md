@@ -104,6 +104,8 @@ This is a React App that provided by Microverse for the purpose of learning and 
 - **Follow React best practice**
 - **Functional Components**
 - **Import and Export Components**
+- **Make use of Big.js**
+- **Add calc operations**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
