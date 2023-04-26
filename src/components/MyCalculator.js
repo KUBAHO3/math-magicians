@@ -11,11 +11,11 @@ function MyCalculator() {
     return outPut;
   };
 
-
+  const {total, next, operation} = obj;
 
   return (
     <div className="calc-wrapper">
-      <div className="calc-display"></div>
+      <div className="calc-display">{total}{operation}{next}</div>
       <div className="calc-row">
         <Button title="AC" cname="cal-btn-normal" />
         <Button title="+/-" cname="cal-btn-normal" />
