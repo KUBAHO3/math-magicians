@@ -104,6 +104,8 @@ This is a React App that provided by Microverse for the purpose of learning and 
 - **Follow React best practice**
 - **Functional Components**
 - **Import and Export Components**
+- **Make use of Big.js**
+- **Add calc operations**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -174,7 +176,7 @@ Example command:
 ```
 ### Run tests
 To run tests, run the following command:
-npm test
+npm run test
 Example command:
 ```sh
   npx stylelint "**/*.{css,scss}"
@@ -234,7 +236,7 @@ If you like this project please follow me on github & twitter and also connect o
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/KUBAHO3/Math-magicians/blob/master/MIT.md) licensed.
+This project is [MIT](https://github.com/KUBAHO3/math-magicians/blob/events/MIT.md) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
