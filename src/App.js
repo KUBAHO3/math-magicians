@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <h1>My Calculator</h1>
       <MyCalculator />
-      <DisplayQuote/>
+      <DisplayQuote />
     </div>
   );
 }
