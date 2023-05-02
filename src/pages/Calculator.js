@@ -1,8 +1,12 @@
 import React from 'react'
+import MyCalculator from '../components/MyCalculator'
 
 function Calculator() {
   return (
-    <div>Calculator</div>
+    <div>
+        <h5>Let's do some math!</h5>
+        <MyCalculator/>
+    </div>
   )
 }
 
