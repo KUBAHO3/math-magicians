@@ -1,13 +1,13 @@
-import React from 'react'
-import MyCalculator from '../components/MyCalculator'
+import React from 'react';
+import MyCalculator from '../components/MyCalculator';
 
 function Calculator() {
   return (
     <div>
-        <h5>Let's do some math!</h5>
-        <MyCalculator/>
+      <h5>Let&apos;s do some math!</h5>
+      <MyCalculator />
     </div>
-  )
+  );
 }
 
-export default Calculator
+export default Calculator;
