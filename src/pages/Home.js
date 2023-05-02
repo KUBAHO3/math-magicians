@@ -1,9 +1,10 @@
 import React from 'react';
+import styles from '../styles/Home.module.css';
 
 function Home() {
   return (
-    <div>
-      <h4>Welcome to our page!</h4>
+    <div className={styles.container}>
+      <h4 className={styles.title}>Welcome to our page!</h4>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
         molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
