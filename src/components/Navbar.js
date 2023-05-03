@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import '../styles/Navbar.css';
 
 function Navbar({ home, calculator, quote }) {
@@ -7,9 +7,9 @@ function Navbar({ home, calculator, quote }) {
     <nav>
       <h2 className="logo">Math Magicians</h2>
       <ul className="nav-item">
-        <li className="nav-item-list"><Link to={home}>Home</Link></li>
-        <li className="nav-item-list"><Link to={calculator}>Calculator</Link></li>
-        <li className="nav-item-list"><Link to={quote}>Quote</Link></li>
+        <li className="nav-item-list"><NavLink to={home} activeClassName="active">Home</NavLink></li>
+        <li className="nav-item-list"><NavLink to={calculator} activeClassName="active">Calculator</NavLink></li>
+        <li className="nav-item-list"><NavLink to={quote} activeClassName="active">Quote</NavLink></li>
       </ul>
     </nav>
   );

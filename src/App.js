@@ -13,7 +13,6 @@ function App() {
           <Route index element={<Home />} />
           <Route path="calculator" element={<Calculator />} />
           <Route path="quote" element={<Quote />} />
-          <Route path="home" element={<Home />} />
         </Route>
       </Routes>
     </BrowserRouter>

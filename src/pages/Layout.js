@@ -5,7 +5,7 @@ import Navbar from '../components/Navbar';
 function Layout() {
   return (
     <>
-      <Navbar home="/home" calculator="/calculator" quote="/quote" />
+      <Navbar home="/" calculator="/calculator" quote="/quote" />
       <Outlet />
     </>
   );
