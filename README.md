@@ -116,7 +116,7 @@ This is a React App that provided by Microverse for the purpose of learning and 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Comming Soon...
+- [live demo](https://mathmagicianapp-tx9k.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
