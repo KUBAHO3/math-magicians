@@ -4,10 +4,10 @@ import Navbar from '../components/Navbar';
 
 function Layout() {
   return (
-    <>
+    <BrowserRouter>
       <Navbar home="/" calculator="/calculator" quote="/quote" />
       <Outlet />
-    </>
+    </BrowserRouter>
   );
 }
 
