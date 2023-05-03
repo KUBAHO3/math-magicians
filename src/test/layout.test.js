@@ -1,9 +1,9 @@
 import renderer from 'react-test-renderer';
-import Home from '../pages/Home';
+import Layout from '../pages/Layout';
 
-it('renders correctly', () => {
+it('renders Quote page correctly', () => {
   const tree = renderer
-    .create(<Home />)
+    .create(<Layout />)
     .toJSON();
   expect(tree).toMatchSnapshot();
 });
